@@ -1,7 +1,7 @@
 # beplant-webapplicatie
 
 ## 03/05/2021 - 16/05/2021
-html: 
+### html: 
 - start,
 - login,
 - aanmelden,
@@ -18,18 +18,18 @@ html:
 - nieuwe workshop aanmaken,
 - inschrijven voor event
 
-nodejs:
+### nodejs:
 - start,
 - login,
 - aanmelden
 
 ## 17/05/2021 - 30/05/2021
-html:
+### html:
 - afgelopen events,
 - detail pagina event,
 - detail pagina workshop
 
-css:
+### css:
 - buttons,
 - typografie,
 - kleuren,
@@ -41,12 +41,12 @@ css:
     - iconen
     - ...
 
-js:
+### js:
 - API fetch for requests,
 - button clicks,
 - ...
 
-nodejs:
+### nodejs:
 - events opvragen,
 - workshops opvragen,
 - events aanmaken,
